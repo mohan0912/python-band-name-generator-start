@@ -1,5 +1,5 @@
 #1. Create a greeting for your program.
-
+print("Welcome to the band name genrator.")
 #2. Ask the user for the city that they grew up in.
 street = input("Which city that you grew up in? \n")
 #3. Ask the user for the name of a pet.
